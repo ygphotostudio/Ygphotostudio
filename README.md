@@ -95,8 +95,7 @@ Here are some ideas to get you started:
   </footer>
 
 </body>
-</html>
-/* Reset */
+</html>/* Reset */
 * {
   margin: 0;
   padding: 0;
